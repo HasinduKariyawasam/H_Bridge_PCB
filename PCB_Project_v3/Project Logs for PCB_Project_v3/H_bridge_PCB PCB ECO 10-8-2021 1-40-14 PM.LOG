@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=U_Power Supply Member=D3
+Removed Member From Class: ClassName=U_Power Supply Member=P3
+Removed Member From Class: ClassName=U_Power Supply Member=S3
+Change Component Comment : Designator=S3 Old Comment=SW-SPST New Comment=DIR CTRL
+Change component parameters: Designator = "C2" ("C2"); Footprint = "RB7.6-15"; UniqueID = "\PDXVTPFQ\XNWDZVNU" ("\PDXVTPFQ\XNWDZVNU")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF / 25V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_Power Supply Member=Component D2 5V LED
+Added Member To Class: ClassName=U_Power Supply Member=Component P2 5VIN
+Added Member To Class: ClassName=U_H_bridge Member=Component Q2 IRF4905
+Added Member To Class: ClassName=U_H_bridge Member=Component Q4 IRLZ44n
+Added Member To Class: ClassName=U_H_bridge Member=Component R4 Res1
+Added Member To Class: ClassName=U_H_bridge Member=Component R6 Res1
+Added Member To Class: ClassName=U_H_bridge Member=Component R8 Res1
+Added Member To Class: ClassName=U_H_bridge Member=Component R10 Res1
+Added Member To Class: ClassName=U_H_bridge Member=Component R12 Res1
+Added Member To Class: ClassName=U_H_bridge Member=Component R14 Res1
+Added Member To Class: ClassName=Top_level Member=Component R19 Res1
+Added Member To Class: ClassName=U_Power Supply Member=Component S2 5V SWITCH
+Added Member To Class: ClassName=U_H_bridge Member=Component U3 TLP521-1
+Added Room: Name=Top_level
+Added Room: Name=U_H_bridge
+Added Room: Name=U_Microcontroller
+Added Room: Name=U_Power Supply

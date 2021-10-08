@@ -1,0 +1,16 @@
+.NHD-0216XZ-FSW-GBW :1 ;LCD Character Display Modules & Accessories STN- GRAY Transfl 80.0 x 36.0
+NHD0216XZFSWGBW
+*STM DS
+*NGS
+*PLB 1="VSS" 2="VDD" 3="V0" 4="RS" 5="R/W" 6="E" 7="DB0" 8="DB1" 9="DB2" 10="DB3" 11="DB4" 12="DB5" 13="DB6" 14="DB7" 15="LED+" 16="LED-" 17="MH1" 18="MH2" 19="MH3" 21="MH4"
+*MXP 20
+*DFN NHD-0216XZ-FSW-GBW
+~!Mouser Part Number (763-0216XZ-FSW-GBW)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Newhaven-Display/NHD-0216XZ-FSW-GBW?qs=y17bYx%2F8gvgtCaLgQaS5Rw%3D%3D)
+~!Manufacturer_Name (Newhaven Display)
+~!Manufacturer_Part_Number (NHD-0216XZ-FSW-GBW)
+~!Link Datasheet (http://www.newhavendisplay.com/specs/NHD-0216XZ-FSW-GBW.pdf)
+~!Height (7mm)
+~!3D_Model (NHD-0216XZ-FSW-GBW)
+NHD-0216XZ-FSW-GBW
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 21.1!U 

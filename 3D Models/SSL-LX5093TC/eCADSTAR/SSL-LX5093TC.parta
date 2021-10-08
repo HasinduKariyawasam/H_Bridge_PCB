@@ -1,0 +1,65 @@
+(Japanese_coding: sjis)
+(function "ECS_482816"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-09-02-08:31:52)
+    (utime 2021-03-24-09:25:55)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SSL-LX5093TC")
+)
+
+
+(pinAssign "ECS_482816"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-09-02-08:31:52)
+    (utime 2021-03-24-09:25:55)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_482816")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SSL-LX5093TC")
+)
+
+
+(part "SSL-LX5093TC"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-09-02-08:31:52)
+    (utime 2021-03-24-09:25:55)
+    (packageRef "SSL-LX5093TC")
+    (pinAssignRef "ECS_482816")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "Lumex SSL-LX5093TC Turquoise LED, 5mm (T-1 3/4) Clear, Dome Lens Through Hole Package")
+    (property "Mouser_Part_Number" "696-SSL-LX5093TC")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Lumex/SSL-LX5093TC?qs=94qWIstW55WGdi06hcoEWQ%3D%3D")
+    (property "Manufacturer_Name" "Lumex")
+    (property "Manufacturer_Part_Number" "SSL-LX5093TC")
+    (property "Datasheet_Link" "http://www.lumex.com.tw/spec/SSL-LX5093TC.pdf")
+)
+
+

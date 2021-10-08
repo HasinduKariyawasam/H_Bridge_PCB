@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SSL-LX5093SGC_B"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SSL-LX5093SGC_B")
+        (spec "default")
+    )
+)

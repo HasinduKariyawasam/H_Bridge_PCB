@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_571694"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-03-21-16:49:25)
+    (utime 2020-07-13-06:25:45)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "B3B-ZR_LF__SN_")
+)
+
+
+(pinAssign "ECS_571694"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-03-21-16:49:25)
+    (utime 2020-07-13-06:25:45)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_571694")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "B3B-ZR_LF__SN_")
+)
+
+
+(part "B3B-ZR_LF__SN_"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-03-21-16:49:25)
+    (utime 2020-07-13-06:25:45)
+    (packageRef "B3B-ZR_LF__SN_")
+    (pinAssignRef "ECS_571694")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "J")
+    (property "description" "B3B-ZR, 1.5mm pitch disconnectable crimp connector, 3-position")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)")
+    (property "Manufacturer_Part_Number" "B3B-ZR(LF)(SN)")
+    (property "Datasheet_Link" "http://www.jst-mfg.com/product/pdf/eng/eZH.pdf")
+    (property "compAreaTopHeight" 4.5)
+)
+
+

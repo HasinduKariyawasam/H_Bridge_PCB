@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PIC16F882-I_SP"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-10-20-08:21:22)
+    (mountForm default
+        (footprintRef "DIP794W56P254L3486H508Q28N")
+        (spec "System")
+    )
+)

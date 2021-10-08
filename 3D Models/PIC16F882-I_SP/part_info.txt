@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=PIC16F882-I/SP
+PartCategory=Integrated Circuit
+PackageCategory=Dual-In-Line Packages
+PinCount=28
+Version=3.1
+Released=2017-01-11 17:13:05
+Downloaded=2021-10-08 11:21:55
+3D=Y

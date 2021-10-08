@@ -1,0 +1,9 @@
+Manufacturer=Newhaven Display
+PartNumber=NHD-0216XZ-FSW-GBW
+PartCategory=Display
+PackageCategory=Other
+PinCount=20
+Version=1.3
+Released=2018-08-22 15:42:00
+Downloaded=2021-10-08 11:41:40
+3D=Y

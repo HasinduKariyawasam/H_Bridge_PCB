@@ -1,0 +1,16 @@
+.B3B-ZR_LF__SN_ :1 ;B3B-ZR, 1.5mm pitch disconnectable crimp connector, 3-position
+SHDR3W50P0X150_1X3_600X350X450P
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3"
+*MXP 3
+*DFN B3B-ZR_LF__SN_
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (JST (JAPAN SOLDERLESS TERMINALS))
+~!Manufacturer_Part_Number (B3B-ZR(LF)(SN))
+~!Link Datasheet (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf)
+~!Height (4.5mm)
+~!3D_Model (B3B-ZR_LF__SN_)
+B3B-ZR_LF__SN_
+1.1!U 2.1!U 3.1!U 

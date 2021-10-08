@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TLP521_1GB'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Isocom", "TLP521-1GB" (!) = "", "DIP762W50P254L458H450Q4N", "Dual-In-Line Packages", "", "", "DIP-4 Optocouplers RoHS", "https://datasheet.lcsc.com/szlcsc/Isocom-Components-TLP521GB_C69256.pdf", "4.5 mm"
+END_PART
+
+END.

@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=+12 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=+12 Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=MCUGND Pin=R3-1
+Removed Pin From Net: NetName=+5 Pin=U1-P$4
+Removed Member From Class: ClassName=U_Power Supply Member=C1
+Removed Member From Class: ClassName=U_Power Supply Member=C2
+Removed Member From Class: ClassName=U_Power Supply Member=Q1
+Removed Member From Class: ClassName=U_Power Supply Member=R2
+Removed Member From Class: ClassName=U_Power Supply Member=U1
+Change component parameters: Designator = "R3" ("R3"); Footprint = "AXIAL-0.3"; UniqueID = "\VYFIOLAZ\PULNJXVP" ("\VYFIOLAZ\PULNJXVP")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Component: Designator=D?(LED-1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S?(SPST-2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCUGND Pin=D?-2
+Added Pin To Net: NetName=MCUGND Pin=P?-1
+Added Pin To Net: NetName=+5 Pin=R3-2
+Added Pin To Net: NetName=+5 Pin=S?-2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R3-1
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetP?_2 Pin=P?-2
+Added Pin To Net: NetName=NetP?_2 Pin=S?-1
+Added Net: Name=NetP?_2
+Added Member To Class: ClassName=U_Power Supply Member=Component D? 5V LED
+Added Member To Class: ClassName=U_Power Supply Member=Component P? 5VIN
+Added Member To Class: ClassName=Top_level Member=Component R16 Res1
+Added Member To Class: ClassName=Top_level Member=Component R18 Res1
+Added Member To Class: ClassName=Top_level Member=Component R19 RPot
+Added Member To Class: ClassName=Top_level Member=Component R21 Res1
+Added Member To Class: ClassName=U_Power Supply Member=Component S? 5V Switch
+Added Member To Class: ClassName=U_Microcontroller Member=Component U2 PIC16F886-I/SP
+Added Room: Name=Top_level
+Added Room: Name=U_H_bridge
+Added Room: Name=U_Microcontroller
+Added Room: Name=U_Power Supply

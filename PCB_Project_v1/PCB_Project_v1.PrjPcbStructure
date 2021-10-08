@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Top_level.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Top_level.SchDoc|Designator=U_H_bridge|SchDesignator=U_H_bridge|FileName=H_bridge.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=H_bridge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_level.SchDoc|Designator=U_Microcontroller|SchDesignator=U_Microcontroller|FileName=Microcontroller.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Microcontroller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_level.SchDoc|Designator=U_Power Supply|SchDesignator=U_Power Supply|FileName=Main_schematic.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Main_schematic.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

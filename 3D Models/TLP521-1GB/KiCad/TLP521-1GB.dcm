@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLP521-1GB
+D DIP-4 Optocouplers RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/Isocom-Components-TLP521GB_C69256.pdf
+$ENDCMP
+#
+#End Doc Library

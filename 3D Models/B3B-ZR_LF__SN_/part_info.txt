@@ -1,0 +1,9 @@
+Manufacturer=JST (JAPAN SOLDERLESS TERMINALS)
+PartNumber=B3B-ZR(LF)(SN)
+PartCategory=Connector
+PackageCategory=Header, Shrouded - Straight PTH Box
+PinCount=3
+Version=2.1
+Released=2017-03-21 16:49:25
+Downloaded=2021-10-08 11:33:02
+3D=Y

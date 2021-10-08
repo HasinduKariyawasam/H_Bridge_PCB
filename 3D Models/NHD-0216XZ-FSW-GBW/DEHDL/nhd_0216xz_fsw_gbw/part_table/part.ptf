@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NHD_0216XZ_FSW_GBW'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Newhaven Display", "NHD-0216XZ-FSW-GBW" (!) = "", "NHD0216XZFSWGBW", "Other", "763-0216XZ-FSW-GBW", "https://www.mouser.co.uk/ProductDetail/Newhaven-Display/NHD-0216XZ-FSW-GBW?qs=y17bYx%2F8gvgtCaLgQaS5Rw%3D%3D", "LCD Character Display Modules & Accessories STN- GRAY Transfl 80.0 x 36.0", "http://www.newhavendisplay.com/specs/NHD-0216XZ-FSW-GBW.pdf", "7 mm"
+END_PART
+
+END.

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PIC16F882_I_SP'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "PIC16F882-I/SP" (!) = "", "DIP794W56P254L3486H508Q28N", "Dual-In-Line Packages", "579-PIC16F882-I/SP", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/PIC16F882-I-SP?qs=UEmB0FaNOjhF%2FZHvGt3HXQ%3D%3D", "8-Bit  CMOS Microcontrollers", "http://componentsearchengine.com/Datasheets/1/PIC16F882-I_SP.pdf", "5.08 mm"
+END_PART
+
+END.
